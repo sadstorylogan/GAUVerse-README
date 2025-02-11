@@ -5,6 +5,7 @@
 **GAU Verse** is an innovative metaverse experience designed to immerse players in a vibrant digital world where social interactions, exploration, and entertainment come together. Developed at **Gamer Arena**, this project pushes the boundaries of virtual environments, offering players a seamless and interactive multiplayer space.
 
 [![YouTube](http://i.ytimg.com/vi/8TXUiiUOm58/maxresdefault.jpg)](https://www.youtube.com/watch?v=8TXUiiUOm58)
+[![YouTube](http://i.ytimg.com/vi/n7z55d8x9gY/maxresdefault.jpg)](https://www.youtube.com/watch?v=n7z55d8x9gY)
 
 ## What is GAU Verse?
 
