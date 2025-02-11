@@ -2,10 +2,9 @@
 
 ## 🌐 Welcome to GAU Verse - Immersive Metaverse Experience
 
-**GAU Verse** is an innovative metaverse experience designed to immerse players in a vibrant digital world where social interactions, exploration, and entertainment come together. Developed at **Gamer Arena**, this project pushes the boundaries of virtual environments, offering players a seamless and interactive multiplayer space.
+**GAU Verse** is an innovative metaverse experience designed to immerse players in a vibrant digital world where social interactions, exploration, and entertainment come together. Developed at **Gamer Arena**, this project pushes the boundaries of virtual environments, offering players a seamless and interactive multiplayer space. 
 
-[![YouTube](http://i.ytimg.com/vi/8TXUiiUOm58/maxresdefault.jpg)](https://www.youtube.com/watch?v=8TXUiiUOm58)
-[![YouTube](http://i.ytimg.com/vi/n7z55d8x9gY/maxresdefault.jpg)](https://www.youtube.com/watch?v=n7z55d8x9gY)
+Follow the latest updates [here](https://x.com/GAUtoken/status/1864694263683899558).
 
 ## What is GAU Verse?
 
@@ -17,6 +16,38 @@ In this metaverse, players enter the world as customizable avatars, navigating a
 - 🎶 **Nightclub & Social Hubs** – Dance, chat, and party in an immersive virtual disco.
 - 🏆 **Mini-Games & Challenges** – Engage in fun side activities that excite the world.
 - 🔮 **Secrets & Hidden Areas** – Discover exclusive locations designed for red pandas, adding a layer of mystery to the metaverse.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8TXUiiUOm58">
+    <img src="http://i.ytimg.com/vi/8TXUiiUOm58/maxresdefault.jpg" width="500">
+  </a>
+  <a href="https://www.youtube.com/watch?v=n7z55d8x9gY">
+    <img src="http://i.ytimg.com/vi/n7z55d8x9gY/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+## Game Engine & Development
+- 🎮 Unity – The core game engine used for rendering, physics, and interactive mechanics.
+- 🖥️ C# – Primary programming language for game logic and networking.
+- 🏗️ Shader Graph & VFX Graph – Advanced visual effects and shaders for dynamic environments.
+
+## Multiplayer & Networking
+- 🔗 Photon Fusion 
+- ☁️ Dedicated Servers & Cloud Hosting – To manage player sessions efficiently.
+- 🔒 WebSockets & RPCs – Low-latency communication for real-time events.
+
+## Backend & Database
+- 🔥 Firebase / PlayFab – User authentication, leaderboards, and cloud data storage.
+- 🗄️ MongoDB / SQL – Managing persistent user data and game progression.
+- 🏆 RESTful & GraphQL APIs – Secure backend communication.
+
+## Web & Blockchain Integration (if applicable)
+- ⛓️ Web3 / Smart Contracts – NFT or digital asset ownership (if implemented).
+- 🌍 Metaverse Interoperability Standards – Connecting with other virtual ecosystems.
+
+## Analytics & Live Operations
+- 📈 Unity Analytics / Google Analytics – Tracking player behavior and engagement.
+- 🚀 Live Ops & A/B Testing – Improving retention and monetization strategies.
 
 ## Why it Matters
 
