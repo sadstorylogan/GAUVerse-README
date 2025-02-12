@@ -2,9 +2,10 @@
 
 ## 🌐 Welcome to GAU Verse - Immersive Metaverse Experience
 
-**GAU Verse** is an innovative metaverse experience designed to immerse players in a vibrant digital world where social interactions, exploration, and entertainment come together. Developed at **Gamer Arena**, this project pushes the boundaries of virtual environments, offering players a seamless and interactive multiplayer space. 
+**GAU Verse** is an innovative metaverse experience designed to immerse players in a vibrant digital world where social interactions, exploration, and entertainment come together. Developed at **Gamer Arena**, this project pushes the boundaries of virtual environments, offering players a seamless and interactive multiplayer space. Follow the latest updates [here](https://x.com/GAUtoken/status/1864694263683899558).
 
-Follow the latest updates [here](https://x.com/GAUtoken/status/1864694263683899558).
+
+![panda](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWo4YWNvajI4ajN5c2wzb2Flc3Zqc3FnOWdkODIwOTBnaGZucDZ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VXWSJoKdGvl0I1NK8T/giphy.gif)
 
 ## What is GAU Verse?
 
